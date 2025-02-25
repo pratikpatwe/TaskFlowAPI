@@ -1,0 +1,9 @@
+created express app using express generator (npx express-generator --no-view --git ./)
+
+installed nodemn (npm install --save-dev nodemon)
+
+linter setup (npx eslint --init)
+
+env setup (npm install dotenv)
+
+for database installed mongoDB and Mongoose (npm install mongodb mongoose)
